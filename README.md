@@ -43,6 +43,6 @@ Automation of ETL pipeline for data warehouse using Apache Airflow
 Utilized: Python, Apache Airflow, AWS S3, AWS Redshift
 
 ### Capstone Project: [US Tourism & Immigration Data Model](https://github.com/AlexVagionas/Data-Engineering-Nanodegree/tree/master/6-Capstone-Project)
-Creation of ETL pipeline to tranform and compine datasets on cities' demographics, cities' average temperature and neighbouring airports with U.S tourism and immigration data in order to gain insight into the causes of popularity of certain migration ports.
+Creation of ETL pipeline to tranform and compine data on cities' demographics, cities' average temperature and neighbouring airports with U.S tourism and immigration dataset containing millions of rows in order to gain insight into the causes of popularity of certain migration ports.
 
 Utilized: Python, Pandas, PySpark, AWS CLI, AWS S3, AWS EMR, Parquet
